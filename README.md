@@ -43,3 +43,12 @@ git add <file1> <file2> <file3>: this command will add multiple file changes tog
 git add .: this command will add all files from working repo to staging area.
 
 git pull <remote name> <branch name> : downloads latest changes from the branch of the mentioned remote in your local repo.
+
+#### Recommende Practice to do--
+1. Make changes.
+2. git add <file>.
+3. git commit.
+4. git pull.
+5. git push.
+   
+   
