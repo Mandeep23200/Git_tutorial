@@ -28,7 +28,7 @@ git diff commit1 commit2 -> gives the difference of all file changes between two
 
 git remote -> list down all the remote connection names
 
-Remote connection -> It helps you to link two git repositories for uploading and downloading changes from each otherwise
+Remote connection -> It helps you to link two git repositories for uploading and downloading changes from each other.
 
 git remote add <name of remote> <link of the remote> : this command helps us to add a new link to the remote repo and give a name to it
 
